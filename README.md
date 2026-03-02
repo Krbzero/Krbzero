@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Krbzero, or zero for short. A programmer from Brazil. I like to build random things while i learn from it, always keeping sure the code is clean and understandable even for non-programmers
+I'm Krbzero, Zero for short. A programmer from Brazil. I like to build random things while i learn from it, always keeping sure the code is clean and understandable even for non-programmers
 
 **Currently focusing on:**
  - Learning Data Processing
