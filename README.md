@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Krbzero, or zero for short. A programmer from Brazil. I like to build random things while i learn from it, always keeping sure the code is clean and understandable even for non-programmers
+
+**Currently focusing on:**
+ - Learning Data Processing
+ - Polishing my codes
+
+#
+
+<!-- **Here are some of the codes i wrote to learn at the early stages:**
+
 <!--
 **Krbzero/Krbzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
