@@ -1,20 +1,20 @@
 ## Hi there 👋
 
-I'm Krbzero, Zero for short. A programmer from Brazil. I like to build random things while i learn from it, always keeping sure the code is clean and understandable even for non-programmers
+I'm Krbzero, Zero for short. A programmer from Brazil. I make small projects while learning from it, always keeping sure the code is clean and understandable
 
 **Currently focusing on:**
  - Learning Data Processing
- - Polishing my codes
+ - Polishing my code
 
 #
 
 ### You can see all my starter codes [here](https://github.com/Krbzero/My-Early-Programming-Stages)
 
-I have a big project yet to come.
+Building a structured real-time application behind the scenes.
 
 #
 
 Fun Facts about me:
- - I have 12 cats (somehow)
- - My favorite hobby is watching anime, my favorite being Re:Zero
+ - I have 12 cats
+ - I like watching anime
  - My favorite game is Ultrakill
