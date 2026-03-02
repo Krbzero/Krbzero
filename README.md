@@ -10,7 +10,7 @@ I'm Krbzero, Zero for short. A programmer from Brazil. I like to build random th
 
 ### You can see all my starter codes [here](https://github.com/Krbzero/My-Early-Programming-Stages)
 
-I have a yet to come, big project.
+I have a big project yet to come.
 
 #
 
