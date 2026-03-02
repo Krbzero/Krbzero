@@ -8,19 +8,13 @@ I'm Krbzero, Zero for short. A programmer from Brazil. I like to build random th
 
 #
 
-<!-- **Here are some of the codes i wrote to learn at the early stages:**
+### You can see all my starter codes [here](https://github.com/Krbzero/My-Early-Programming-Stages)
 
-<!--
-**Krbzero/Krbzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a yet to come, big project.
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun Facts about me:
+ - I have 12 cats (somehow)
+ - My favorite hobby is watching anime, my favorite being Re:Zero
+ - My favorite game is Ultrakill
