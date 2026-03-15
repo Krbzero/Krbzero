@@ -17,4 +17,4 @@ Building a structured real-time application behind the scenes.
 Fun Facts about me:
  - I have 12 cats
  - I like watching anime
- - My favorite game is Ultrakill
+ - My favorite game is Hollow Knight
