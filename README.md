@@ -6,13 +6,13 @@ I'm Krbzero, Zero for short. A programmer from Brazil. I make small projects whi
  - Learning Data Processing
  - Polishing my code
 
-#
+---
 
 ### You can see all my starter codes [here](https://github.com/Krbzero/My-Early-Programming-Stages)
 
 Building a structured real-time application behind the scenes.
 
-#
+---
 
 Fun Facts about me:
  - I have 12 cats
