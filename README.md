@@ -1,20 +1,30 @@
 ## Hi there 👋
 
-I'm Krbzero, Zero for short. A programmer from Brazil. I make small projects while learning from it, always keeping sure the code is clean and understandable
+I'm Krbzero, Zero for short. A Brazilian programmer. I make small projects while learning from them, always trying to keep the code clean and easy to understand
 
-**Currently focusing on:**
- - Learning Data Processing
- - Polishing my code
+Currently developing [Copytector](https://github.com/Krbzero/Copytector), a real-time music detection tool designed to help streamers identify copyrighted songs during streams.
 
 ---
 
-### You can see all my starter codes [here](https://github.com/Krbzero/My-Early-Programming-Stages)
+### Currently learning
+- Python
+- Pandas
+- APIs
+- Audio Processing
 
-Building a structured real-time application behind the scenes.
+### Interested in learning
+- Lua
+- PHP
+- HTML
+- C / C++ / C#
+
+---
+
+### You can see all my early projects [here](https://github.com/Krbzero/My-Early-Programming-Stages)
 
 ---
 
 Fun Facts about me:
- - I have 12 cats
- - I like watching anime
+ - I have 12 cats 😸
+ - I like watching anime 
  - My favorite game is Hollow Knight
